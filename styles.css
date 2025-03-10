@@ -18,7 +18,7 @@ body {
     padding: 0 10rem;
 }
 
-.header, .footer {
+.header, footer {
     background-color: #1F2937;
     color: #F9FAF8;
 }
@@ -143,4 +143,9 @@ button {
 }
 .action-text, button {
     color: #E5E7EB;
+}
+
+.footer-text {
+    text-align: center;
+    padding: 20px;
 }
