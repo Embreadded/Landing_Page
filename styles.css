@@ -102,6 +102,7 @@ button {
 }
 
 .info-item img {
+    object-fit: cover;
     border: 5px solid black;
     border-radius: 15px;
 }
