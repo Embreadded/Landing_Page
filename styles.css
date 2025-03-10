@@ -118,6 +118,11 @@ button {
     background-color: #E5E7EB;
 }
 
+.main-quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
 .wife-quote {
     align-self: flex-end;
     font-weight: 700;
